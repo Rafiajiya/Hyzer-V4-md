@@ -272,8 +272,8 @@ let help = Object.values(global.plugins).filter(plugin => !plugin.disabled).map(
 │⬡ *${Object.entries(global.db.data.users).filter(user => user[1].banned).length}* Pengguna Terbanned
 ╰───⬣
 ┌───⬣
-│⬡ My Github : https://github.com/Hyzerr
-│⬡ My Instagram : hyzer_stfu
+│⬡ My Github : https://github.com/Rafiajiya
+│⬡ My Instagram : -
 │⬡ My Group : 
 │https://chat.whatsapp.com/Jzd9DEVB5nODtNBk1VCNrV
 │⬡ *スパムしないでください*
@@ -281,7 +281,7 @@ let help = Object.values(global.plugins).filter(plugin => !plugin.disabled).map(
 `,
             buttonText: 'LIST MENU',
             listType: 1,
-            footerText: "Created By Hyzer Official\n>‿‿<",
+            footerText: "Created By Rafi Botz\n>‿‿<",
             mtype: 'listMessage',
             sections: [
               {
@@ -310,7 +310,7 @@ let help = Object.values(global.plugins).filter(plugin => !plugin.disabled).map(
                   "rowId": `${_p}? anime`
                 }, {
                   "title": "NSFW MENU",
-                  "description": "Menampilkan Menu Nsfw",
+                  "description": "Ingat puasa Banh",
                   "rowId": `${_p}? nsfw`
                 }, {
                   "title": "STICKER & CONVERTER",
